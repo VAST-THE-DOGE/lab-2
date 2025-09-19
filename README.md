@@ -1,2 +1,2 @@
 # lab-2
-for CSC 552 Lab 2. To setup GitHub Workflow.
+for CSC 552 Lab 2. To setup a GitHub Workflow.
